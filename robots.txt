@@ -1,0 +1,10 @@
+# lawinking-seoUser-agent: *
+Allow: /
+
+Sitemap: https://lawinking.in/sitemap.xml
+
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /drafts/
